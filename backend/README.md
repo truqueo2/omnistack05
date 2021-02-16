@@ -14,7 +14,7 @@ mongoose.connect('mongodb+srv://<user>:<password>@cluster0.nqgek.mongodb.net/<da
   useUnifiedTopology: true
 })
 ```
-Se der erro em `app.list(3000)` no linux é só rodar 'sudo pkill node'
+Se der erro em `app.list(3333)` no linux é só rodar 'sudo pkill node'
 
 ### Nodemon
 - yarn add nodemon -D
